@@ -2,9 +2,18 @@
 3D Point Cloud reconstruction from a single 2D image using **SAM 2** and **Depth Anything V2**.
 
 ## 🚀 Results
-| Original Image | SAM 2 Mask | 3D Point Cloud |
-| :--- | :--- | :--- |
-| ![Input](data/campanile.jpeg) | ![Mask](assets/sam2_check.jpg) | ![3D](assets/MeshLabReconstruction.jpg) |
+<table>
+  <tr>
+    <td><b>Original Image</b></td>
+    <td><b>SAM 2 Mask</b></td>
+    <td><b>3D Point Cloud</b></td>
+  </tr>
+  <tr>
+    <td><img src="data/campanile.jpeg" width="300"></td>
+    <td><img src="assets/sam2_check.jpg" width="300"></td>
+    <td><img src="assets/MeshLabReconstruction.jpg" width="300"></td>
+  </tr>
+</table>
 
 ## 🛠 Project Structure
 - `src/`: Main Python scripts for depth estimation and projection.
