@@ -1,5 +1,5 @@
 # Depth-Anything-SAM2
-3D Point Cloud reconstruction from a single 2D image using **SAM 2** and **Depth Anything V2**.
+3D Point Cloud reconstruction from a single 2D image using SAM 2 and Depth Anything V2.
 
 ## Results
 <table>
